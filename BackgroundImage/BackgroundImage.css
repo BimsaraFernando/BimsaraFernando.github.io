@@ -91,7 +91,7 @@ blockquote cite {
 
 .container {
   display: table;
-  padding-top: 80px;
+  padding-top: 0px;
   width: 100%;
 }
 
@@ -135,7 +135,7 @@ blockquote cite {
     float: left;
     vertical-align: baseline;
     margin: 0 auto;
-    padding: 80px 0 0 0;
+    padding: 0px 0 0 0;
   }
   
   #more-content {
@@ -152,7 +152,7 @@ blockquote cite {
   .content, blockquote {  
     display: inline;
     margin: 0 auto;
-    padding-top: 80px;
+    padding-top: 0px;
     vertical-align: baseline;
   }
 
